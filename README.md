@@ -7,7 +7,7 @@ I am a Computer Science student from the Netherlands 👨‍🎓
 - Obviously a real gamer 🎮
 
 
-**Interested in: 
+**Interested in:** 
 - Three.js
 - Cyber Security 
 - Python
