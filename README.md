@@ -5,7 +5,7 @@ I am a Computer Science student from the Netherlands 👨‍🎓
 Avans University
 
 - Currently working on Cyber Security & Big Data projects 📚
-- Typescript > Javascript
+- Typescript 💙
 - Svelte 🧡
 
 
