@@ -10,7 +10,7 @@ Avans University
 
 
 **Interested in:** 
-- Three.js
+- Threlte
 - Cyber Security 
 - Python
 
