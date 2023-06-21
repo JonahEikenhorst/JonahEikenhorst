@@ -9,9 +9,6 @@ Avans University
 - Svelte 🧡
 
 
-**Interested in:** 
-- Threlte
-- Cyber Security 
-- Python
+
 
 
