@@ -2,11 +2,11 @@
 Welcome to my profile👋
 -
 I am a Computer Science student from the Netherlands 👨‍🎓
-Avans University
+Avans University of Applied Sciences
 
-- Currently working on Networking & Security projects 📚
-- Typescript 💙
-- Svelte 🧡
+- Currently working on Machine learning & Elixir projects 📚
+- Full Stack Developer ⚖️
+- Machine Learning knowledge 🧠
 
 
 
