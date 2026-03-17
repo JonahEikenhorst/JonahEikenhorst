@@ -1,12 +1,11 @@
 
 Welcome to my profile👋
 -
-I am a Computer Science student from the Netherlands 👨‍🎓
-Avans University of Applied Sciences
+I am a Software Engineer from the Netherlands💻
 
-- Currently working on Machine Learning & Elixir projects 📚
-- Full Stack Developer ⚖️
-- Machine Learning knowledge 🧠
+- Currently persuing my MSc in Artificial Intelligence & Cyber Security 📚
+- Full Stack Developer 🧠
+- Working on React apps & Elixir Phoenix projects 👨‍💻
 
 
 
